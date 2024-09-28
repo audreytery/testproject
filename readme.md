@@ -15,4 +15,4 @@ this command describes the changes we've made.
 ```
 git push origin main
 ```
-this command pushes our code to github repository(origin) to the main branch
+this command pushes our code to github repository(origin) to the main bran
